@@ -1,0 +1,105 @@
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\bin\Debug\ImageViewer.dll
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\bin\Debug\ImageViewer.xml
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\ImageViewer.imgView.resources
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\ImageViewer.Resources.resources
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\ImageViewer.dll
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\ImageViewer.xml
+C:\Users\Samsung\AppData\Local\Temporary Projects\ImageViewer\obj\Debug\ImageViewer.pdb
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.dll
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.pdb
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.xml
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+D:\PBK\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.dll
+D:\PBK\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.pdb
+D:\PBK\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.xml
+D:\PBK\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+D:\PBK\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+D:\PBK\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+D:\PBK\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+D:\PBK\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+D:\PBK\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.dll
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.pdb
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.xml
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+C:\Users\Samsung\Desktop\Tugas Minggu INI\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.dll
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.pdb
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.xml
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+D:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.dll
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.pdb
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.xml
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+E:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.dll
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.pdb
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.xml
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+H:\PBK\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.dll
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.pdb
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.xml
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+D:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+H:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+H:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+H:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+H:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+H:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+H:\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.dll
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.pdb
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\bin\Debug\imgViewCtl.xml
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.dll
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.xml
+D:\ARJUNO\KULIAH SEMESTER 6\PROGRESS PBK\PBK\imgViewCtl\lama\imgViewCtl\imgViewCtl\imgViewCtl\obj\Debug\imgViewCtl.pdb
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\bin\Debug\imgViewCtl.dll
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\bin\Debug\imgViewCtl.pdb
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\bin\Debug\imgViewCtl.xml
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\imgViewCtl.dll
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\imgViewCtl.xml
+H:\PBK\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\imgViewCtl.pdb
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\bin\Debug\imgViewCtl.dll
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\bin\Debug\imgViewCtl.pdb
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\bin\Debug\imgViewCtl.xml
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\ImageViewer.imgView.resources
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\ImageViewer.Resources.resources
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\imgViewCtl.vbproj.GenerateResource.Cache
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\imgViewCtl.dll
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\imgViewCtl.xml
+H:\PBK\imgViewCtl\imgViewCtl - progress 29 Mei\imgViewCtl\obj\Debug\imgViewCtl.pdb
